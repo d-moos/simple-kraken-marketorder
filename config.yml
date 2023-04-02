@@ -1,0 +1,5 @@
+key: "[APIKEY]"
+passphrase: "[SECRET]"
+pair: "DOTUSDT"
+volume: "10"
+dry_run: true
